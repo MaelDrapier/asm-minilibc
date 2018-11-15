@@ -1,5 +1,19 @@
 # asm-minilibc
-asm-minilibc project for EPITECH (2nd year)
+The goal of this project was to create a dynamic ELF library to replace some of the [standard C library](https://en.wikipedia.org/wiki/C_standard_library) functions.
+
+<br>
+
+Language: **x86-64 assembly**
+
+Group size: **1**
+
+Project duration: **~1 month** (26/02/2018 - 25/03/2018)
+
+Compilation: **on GNU/Linux via Makefile**
+
+Assembly files are compiled with the [**nasm assembler**](https://www.nasm.us/).
+
+<br>
 
 ## Passed tests:
 
