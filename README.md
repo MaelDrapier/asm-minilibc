@@ -1,5 +1,7 @@
 # asm-minilibc
-The goal of this project was to create a **dynamic ELF library** to replace some of the [standard C library](https://en.wikipedia.org/wiki/C_standard_library) functions.
+This project was the only assembly project from my second year at EPITECH (2017-2018)
+
+The goal was to create a **dynamic ELF library** to replace some of the [standard C library](https://en.wikipedia.org/wiki/C_standard_library) functions.
 
 <br>
 
